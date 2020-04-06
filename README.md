@@ -8,9 +8,9 @@
 
 ## [ Project ]
 ### UI Design
-- GOODLUXE(중고 명품 판매 사이트)
+- GOODLUXE(중고 명품 판매 사이트) : https://github.com/jinjean0123/MyGoodluxe_UI
 
 <br>
 
 ### CODE
-- GOODLUXE(중고 명품 판매 사이트)
+- GOODLUXE(중고 명품 판매 사이트) : https://github.com/jinjean0123/MyGoodluxe
